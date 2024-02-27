@@ -10,4 +10,5 @@ const decrementFunction = () => {
     counterValue--
     document.getElementById('counter-number').innerText = counterValue
     console.log(`decrement logged!`)
+    
 }
